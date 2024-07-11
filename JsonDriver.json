@@ -1,5 +1,5 @@
 {
-  "f1_drivers": [[
+  "f1_drivers": [
     {
         "driver_number": 1,
         "broadcast_name": "M VERSTAPPEN",
@@ -475,5 +475,5 @@
         "country_code": "AUS",
         "session_key": 7764,
         "meeting_key": 1140
-    }]]
+    }]
 }
